@@ -21,3 +21,10 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/images/red.png
+    - assets/images/blue.png
+    - assets/images/green.png
+    - assets/images/yellow.png
+    - assets/images/purple.png

@@ -12,7 +12,7 @@ class GameApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.cyan),
         useMaterial3: true,
       ),
-      home: const GameScreen(),
+      home: GameScreen(),
     );
   }
 }
